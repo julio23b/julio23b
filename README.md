@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Julio Bachamnn</h1>
-<h3 align="center">Soy un desarrollador FullStack.</h3>
+
 
 - 👨‍💻 Estos son mis proyectos [https://julio23b.github.io/Portafolio/](https://julio23b.github.io/Portafolio/)
 
