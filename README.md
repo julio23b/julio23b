@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Julio Bachamnn</h1>
 
 
-- 👨‍💻 Estos son mis proyectos [https://julio23b.github.io/Portafolio/]
+- 👨‍💻 Estos son mis proyectos 
 
 - 📫 Contactame: **juliobachmann14@gmail.com**
 
