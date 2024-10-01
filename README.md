@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Julio Bachamnn</h1>
+<h1 align="center">Hola 👋, me llamo Julio Bachmann</h1>
 
 
 - 👨‍💻 Estos son mis proyectos 
